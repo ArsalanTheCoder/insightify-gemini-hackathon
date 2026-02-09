@@ -58,8 +58,8 @@ We utilize Google's latest experimental model for complex reasoning, allowing th
 
 Insightify uses a hybrid cloud architecture to ensure speed and reliability.
 
-![System Architecture](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
-*(Replace with your generated Architecture Diagram)*
+<img width="1376" height="768" alt="system architecture" src="https://github.com/user-attachments/assets/c3f7239b-30fa-46bf-9651-7f67dcb8559e" />
+
 
 1.  **User Input:** The user uploads a file (Audio/Video/Image) via the React Native App.
 2.  **Backend Processing:** The Node.js server receives the file and processes it for the AI.
