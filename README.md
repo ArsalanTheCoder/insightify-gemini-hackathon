@@ -1,7 +1,6 @@
 # 🛡️ Insightify: Multimodal AI Scam Defense
 
-![Insightify Banner](https://via.placeholder.com/1200x400.png?text=Insightify+Powered+by+Gemini+3) 
-*(Replace this link with your actual Cover Image)*
+![Insightify_Logo](https://github.com/user-attachments/assets/03f9553b-0493-4f5e-b966-dfa332b9f939)
 
 > **The world's first Multimodal Scam Detector powered by Google Gemini 3.** > *Protecting humans from AI voice clones, deepfakes, and social engineering fraud.*
 
