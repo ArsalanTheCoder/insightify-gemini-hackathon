@@ -58,7 +58,7 @@ We utilize Google's latest experimental model for complex reasoning, allowing th
 
 Insightify uses a hybrid cloud architecture to ensure speed and reliability.
 
-<img width="1376" height="768" alt="system architecture" src="https://github.com/user-attachments/assets/c3f7239b-30fa-46bf-9651-7f67dcb8559e" />
+<img width="1376" height="704" alt="system architecture" src="https://github.com/user-attachments/assets/fcf668e5-2b09-4610-b79f-423c6628d95c" />
 
 
 1.  **User Input:** The user uploads a file (Audio/Video/Image) via the React Native App.
